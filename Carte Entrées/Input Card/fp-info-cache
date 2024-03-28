@@ -1,0 +1,267 @@
+64808230837760
+Lib_Perso
+1016435900011LF
+10164359-00011LF-1
+Connector
+0
+10
+10
+Lib_Perso
+2N3417PBFREE
+2N3417 PBFREE-3
+Transistor BJT NPN
+0
+3
+3
+Lib_Perso
+220ADA16
+220ADA16-2
+Switch
+0
+6
+6
+Lib_Perso
+3296W1223LF
+3296W-1-223LF-3
+Variable Resistor
+0
+3
+3
+Lib_Perso
+1735882
+1735882-2
+Connector
+0
+2
+2
+Lib_Perso
+090329001
+09.03290.01-2
+Switch
+0
+3
+3
+Lib_Perso
+ABS07
+ABS07
+Crystal or Oscillator
+0
+2
+2
+Lib_Perso
+BATHLD003SMTTR
+BAT-HLD-003-SMT-TR-4
+Hardware
+0
+3
+3
+Lib_Perso
+DIP794W53P254L1930H508Q14N
+N (R-PDIP-T14)
+Integrated Circuit
+0
+14
+14
+Lib_Perso
+DIP794W56P254L2013H533Q16N
+16-Pin Plastic DIP
+Integrated Circuit
+0
+16
+16
+Lib_Perso
+DIPS1524W51P254L1257H800Q10N
+HDSP-5503
+Display
+0
+10
+10
+Lib_Perso
+DQA_R-PUSON-N10_
+DQA (R-PUSON-N10)
+Diode
+0
+10
+10
+Lib_Perso
+DS01C254S03BE
+DS01C-254-S-03BE-2
+Switch
+0
+6
+6
+Lib_Perso
+DS01C254S08BE
+DS01C-254-S-08BE-2
+Switch
+0
+16
+16
+Lib_Perso
+ESP32H2MINI1H2
+13.2mm × 16.6mm × 2.4mm
+Integrated Circuit
+0
+61
+61
+Lib_Perso
+FL0800011Q
+FL0800011Q-1
+Crystal or Oscillator
+0
+4
+4
+Lib_Perso
+G5V23DC
+G5V-2_1
+Relay or Contactor
+0
+8
+8
+Lib_Perso
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+Lib_Perso
+NFD17E09SAFC1DA
+NFD17E09SAFC1DA-2
+Connector
+0
+11
+11
+Lib_Perso
+PTS636SK43SMTRLFS
+PTS636 SK43 SMTR LFS-2
+Switch
+0
+2
+2
+Lib_Perso
+PTS645SH952LFS
+PTS645SH952LFS-2
+Switch
+0
+4
+4
+Lib_Perso
+QFN50P500X500X90-33N-D
+ATMEGA328PB-MU-1
+Integrated Circuit
+0
+33
+33
+Lib_Perso
+QFP80P1600X1600X120-64N
+TQFP 64A
+Integrated Circuit
+0
+64
+64
+Lib_Perso
+SHT40BD1BR2
+SHT40-BD1B-R2-2
+Integrated Circuit
+0
+4
+4
+Lib_Perso
+SIP249W51P254L2535H508Q10P
+4610X-101-103LF
+Resistor Network
+0
+10
+10
+Lib_Perso
+SOIC127P600X175-14N
+SOT108-1
+Integrated Circuit
+0
+14
+14
+Lib_Perso
+SOIC127P600X175-16N
+16 lead soic
+Integrated Circuit
+0
+16
+16
+Lib_Perso
+SOIC127P780X200-16N
+NS (R-PDSO-G**)
+Transistor Darlington Pair
+0
+16
+16
+Lib_Perso
+SOIC127P1030X265-20N
+DW0020A
+Integrated Circuit
+0
+20
+20
+Lib_Perso
+SOIC127P1030X265-28N
+(SO)28-Lead(SOIC)
+Integrated Circuit
+0
+28
+28
+Lib_Perso
+SON50P200X200X100-9N-D
+TS14002-C033DFNR
+Integrated Circuit
+0
+9
+9
+Lib_Perso
+SON50P300X200X100-9N-D
+MCP73831T-2ACI/MC-1
+Integrated Circuit
+0
+9
+9
+Lib_Perso
+SON80P150X150X59-5N
+DFN4EP
+Integrated Circuit
+0
+5
+5
+Lib_Perso
+SOP65P780X200-28N
+(SS)28-Lead(SSOP)
+Integrated Circuit
+0
+28
+28
+Lib_Perso
+SOT95P240X110-3N
+PJA3440-+-
+Integrated Circuit
+0
+3
+3
+Lib_Perso
+SOT96P237X111-3N
+SOT-23 (TO-236) CASE 318-08
+Transistor BJT NPN
+0
+3
+3
+Lib_Perso
+USB4110GFA
+USB4110-GF-A-1
+Connector
+0
+20
+20
+Lib_Perso
+USB405603A
+USB4056-03-A-3
+Connector
+0
+28
+28
