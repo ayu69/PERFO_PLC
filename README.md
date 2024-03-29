@@ -3,7 +3,7 @@
 Vous trouverez l'ensemble des schémas et routage des cartes
 
 Bus Fond de panier :
-![alt text](https://github.com/ayu69/PERFO_PLC/blob/main/Rendus/Bus_fond_panier.jpg)
+![alt text](https://github.com/ayu69/PERFO_PLC/blob/main/Rendus/Bus_fond_panier_V2.jpg)
 
 CPU :
 ![alt text](https://github.com/ayu69/PERFO_PLC/blob/main/Rendus/CPU.jpg)
